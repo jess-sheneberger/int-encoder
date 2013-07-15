@@ -29,7 +29,7 @@
     "test": "grunt test"
   },
   "dependencies":{
-     "bignum":"git+https://github.com/jess-sheneberger/node-bignum.git"
+     "bignum":">=0.6.1"
   },
   "devDependencies": {
     "grunt": "~0.3.11"
